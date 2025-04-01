@@ -1,3 +1,8 @@
+# Lowdown-Events
+Compilation engine for twice weekly updated events calendar for UK Black Queer Life
+>>>>>>> c55de12ac8d16184cbb67d4b3cbed9a4f0fd2207
+
+-------
 # BLKOUT UK Events Calendar
 
 A comprehensive events calendar system for BLKOUT UK, designed to display events of interest to the UK Black LGBT+ community and allies.
@@ -121,3 +126,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# Lowdown-Events
+Compilation engine for twice weekly updated events calendar for UK Black Queer Life
+>>>>>>> c55de12ac8d16184cbb67d4b3cbed9a4f0fd2207
